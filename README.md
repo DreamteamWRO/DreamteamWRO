@@ -1,24 +1,24 @@
-Introducció
-Aquest projecte consisteix en la construcció d’un prototip de cotxe autònom Arduino Uno, dos sensors ultrasònics, un controlador de motors i un xassís imprès en 3D. Les parts que han de resistir més esforç s’han imprès en PETG blau, mentre que la resta s’han fabricat en PLA verd.
+Introduction
+This project consists of the construction of an Arduino Uno autonomous computer prototype, two ultrasonic sensors, a motor controller and a 3D printed chassis. The parts that must withstand the most effort have been printed in blue PETG, while the rest have been manufactured in green PLA.
 
 Objectius
-Construir un xassís funcional i muntar l’electrònica bàsica.
-Integrar dos sensors ultrasònics per a detecció frontal i lateral.
-Muntar i provar els motors i el controlador de potència.
-Documentar tot el procés en un diari tècnic 
-Tot hi que hi han coses que no s’han pogut realitzar de la manera que teniem pensada/estructurada
+Build a functional xassis and assemble the basic electronics.
+Integrate two ultrasonic sensors for frontal and lateral detection.
+Assemble and test the motors and the power controller.
+Document the entire process in a technical diary 
+There are all things that cannot be done in the way we have planned/structured
 
-Contextualització
-Projecte realitzat per participar en la competició 
-El disseny inicial del xassís s’ha obtingut de Thingiverse i posteriorment s’ha modificat per incloure un segon sensor ultrasònic mitjançant un procés de perforació (taladrat) i reforç estructural.
+Contextualization
+Project realization to participate in the competition 
+The initial design of the xassis was obtained from Thingiverse and was subsequently modified to include a second ultrasonic sensor along with a drilling process and structural reinforcement.
 
-Relació amb altres treballs
-S’han consultat dissenys de cotxes, guies d’ús del sensor d’ultrasons i exemples de control (per els motors) amb Arduino Uno per evitar problemes de sincronització. No obstant això hem seguit la estructura del dissenyador de Thingiverse, ja que ell ja ha fet un procés inicial que el de “pensar”, que nosaltres en part no hem tingut que aprofundir tant això ens ha fet estalviar temps.
+Relationship between the three jobs
+Please consult the code designs, user guides for the ultrasound sensor and control examples (for the motors) with the Arduino Uno to avoid synchronization problems. However, we still follow the structure of the Thingiverse designer, since it has an initial process other than “thinking”, which we partly do not have to deepen so much in our time.
 
 
-Motivació
-Interès per la robòtica bàsica i el control electrònic.
-Oportunitat de competir en un concurs/competició
-Aprendre a aplicar la impressió 3D en peces estructurals.
-Treball en equip
+Motivation
+Interest in basic robotics and electronic control.
+Opportunity to compete in a contest/competition
+Learn how to apply 3D printing on structural fish.
+Work in team
 
